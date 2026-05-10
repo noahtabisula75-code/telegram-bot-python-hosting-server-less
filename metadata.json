@@ -1,0 +1,6 @@
+{
+  "name": "Python Bot Server",
+  "description": "A dashboard to host, upload, and run a Python Telegram bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
